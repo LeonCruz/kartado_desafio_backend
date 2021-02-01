@@ -1,0 +1,20 @@
+[
+{
+  "model": "occurrences.road",
+  "pk": 1,
+  "fields": {
+    "name": "BR-101",
+    "uf_code": "42",
+    "length": 150.0
+  }
+},
+{
+  "model": "occurrences.road",
+  "pk": 2,
+  "fields": {
+    "name": "BR-116",
+    "uf_code": "41",
+    "length": 230.0
+  }
+}
+]

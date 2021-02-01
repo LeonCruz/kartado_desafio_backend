@@ -1,0 +1,26 @@
+[
+{
+  "model": "occurrences.status",
+  "pk": 1,
+  "fields": {
+    "name": "Para fazer",
+    "color_hex": "#ff0000"
+  }
+},
+{
+  "model": "occurrences.status",
+  "pk": 2,
+  "fields": {
+    "name": "Fazendo",
+    "color_hex": "#00ff00"
+  }
+},
+{
+  "model": "occurrences.status",
+  "pk": 3,
+  "fields": {
+    "name": "Feito",
+    "color_hex": "#0000ff"
+  }
+}
+]
