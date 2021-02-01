@@ -56,4 +56,3 @@ class TestOccurrenceView(TestCase):
         response = self.client.get("/occurrences/1/")
         self.assertContains(response, "road_name")
         self.assertContains(response, "status_name")
-        print(response.json())
